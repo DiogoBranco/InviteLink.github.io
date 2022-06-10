@@ -1,3 +1,3 @@
 # InviteLink
 
-http://www.myappzgzg.com/v1.shtml
+[Deep Link](app://conversationalist)
