@@ -1,3 +1,3 @@
 # InviteLink
 
-[Deep Link](/app://conversationalist)
+app://conversationalist
