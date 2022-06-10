@@ -1,3 +1,3 @@
 # InviteLink
 
-http://www.myapp.com/v1
+http://www.myappzgzg.com/v1
